@@ -19,7 +19,7 @@ landing page
 
 ## Project Structure
 
-/wonder-travel-frontend
+/wonder-travel-frontend  
 ├── /public  
 │   ├── index.html  
 │   └── ... (other public files)  
