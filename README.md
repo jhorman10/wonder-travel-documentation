@@ -20,6 +20,8 @@ landing page
 ## Project Structure
 
 /wonder-travel-frontend  
+<pre>
+├── package.json  
 ├── public  
 │   └── vite.svg  
 ├── src  
@@ -139,9 +141,9 @@ landing page
 │       ├── Schedule  
 │       │   └── index.jsx  
 │       └── index.js  
-├── package.json  
 ├── vite.config.js  
 └── yarn.lock  
+</pre>
   
 ## License
 
